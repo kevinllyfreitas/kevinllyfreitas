@@ -33,6 +33,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kevinllyfreitas/kevinllyfreitas/output/snake.svg" alt="Snake animation" />
-
-###
